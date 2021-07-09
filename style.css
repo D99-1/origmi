@@ -1,0 +1,39 @@
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}*/
+
+.header{
+    background-color: rgba(98, 140, 255, 0.39);
+    display: flex;
+    justify-content: space-evenly;
+}
+.menu{
+    background-color: rgba(98, 140, 255, 0.39);
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+
+display: flex;
+flex-direction: column-reverse;
+justify-content: flex-start;
+
+
+}
+
+.text{
+font-weight: bolder;
+text-align: center;
+background-image: url("2345.png");
+}
+
